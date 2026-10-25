@@ -15,6 +15,7 @@ import com.example.lab_8.ui.theme.Lab8Theme
 
 class MainActivity : ComponentActivity() {
     //test comment
+    //test comment 2
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
